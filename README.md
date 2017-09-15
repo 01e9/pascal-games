@@ -53,6 +53,15 @@ Thanks to my teacher Brodicico Valeriu!
     TETRIS.EXE
     ```
 
+* **MATRIX** (not game)
+
+    ![Screenshot](MATRIX/screenshot.gif)
+
+    ```
+    cd MATRIX
+    MATRIX.EXE
+    ```
+
 ## Fix slow moving
 
 To increase DOSBox speed press CTRL-F12 _(CTRL-F11 to decrease)_.

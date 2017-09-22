@@ -4,14 +4,6 @@ Created by Oleg Artenii in high school.
 
 Thanks to my teacher Brodicico Valeriu!
 
-## How to Play
-
-* Install [DOSBox](https://www.google.com/search?q=dosbox+download)
-
-    ```sh
-    sudo apt install dosbox
-    ```
-
 * **RÎMA** (Snake)
 
     ![Screenshot](RIMA/screenshot.png)
@@ -31,6 +23,16 @@ Thanks to my teacher Brodicico Valeriu!
 * **MATRIX** (not game)
 
     ![Screenshot](MATRIX/screenshot.gif)
+
+## How to Play
+
+1. Install [DOSBox](https://www.google.com/search?q=dosbox+download)
+
+    ```sh
+    sudo apt install dosbox
+    ```
+
+2. Double click on any EXE file
 
 ## Fix slow moving
 

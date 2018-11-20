@@ -32,7 +32,7 @@ Thanks to my teacher Brodicico Valeriu!
     sudo apt install dosbox
     ```
 
-2. Double click on any EXE file
+2. `dosbox GAME_NAME.EXE`
 
 ## Fix slow moving
 

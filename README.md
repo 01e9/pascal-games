@@ -1,7 +1,5 @@
 # Pascal Games
 
-Created by Oleg Artenii in high school.
-
 Thanks to my teacher Brodicico Valeriu!
 
 * **RÎMA** (Snake)

@@ -24,6 +24,16 @@ Thanks to my teacher Brodicico Valeriu!
 
 ## How to Play
 
+### on Windows
+
+1. Install [DOSBox](https://sourceforge.net/projects/dosbox/files/latest/download)
+
+2. Drag and Drop the game exe file on DOSBox desktop icon
+
+![Screen](https://i.imgur.com/zSzZ7Zg.png)
+
+### on Linux
+
 1. Install [DOSBox](https://www.google.com/search?q=dosbox+download)
 
     ```sh

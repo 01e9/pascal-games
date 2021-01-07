@@ -24,6 +24,8 @@ Thanks to my teacher Brodicico Valeriu!
 
 ## How to Play
 
+0. [Download](https://github.com/01e9/pascal-games/archive/master.zip) the files
+
 ### on Windows
 
 1. Install [DOSBox](https://sourceforge.net/projects/dosbox/files/latest/download)

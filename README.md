@@ -20,7 +20,7 @@ Thanks to my teacher Brodicico Valeriu!
 
 * **MATRIX** (not game)
 
-    <details><summary>Screenshot</summary> <img src="MATRIX/screenshot.png" /> </details>
+    <details><summary>Screenshot</summary> <img src="MATRIX/screenshot.gif" /> </details>
 
 ## How to Play
 

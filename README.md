@@ -4,7 +4,7 @@ Thanks to my teacher Brodicico Valeriu!
 
 * **RÎMA** (Snake)
 
-    ![Screenshot](RIMA/screenshot.png)
+    <details><summary>Screenshot</summary> <img src="RIMA/screenshot.png" /> </details>
 
     * To see the "Game Over" screen
 
@@ -12,15 +12,15 @@ Thanks to my teacher Brodicico Valeriu!
 
 * **TANK**
 
-    ![Screenshot](TANK/screenshot.png)
+    <details><summary>Screenshot</summary> <img src="TANK/screenshot.png" /> </details>
 
 * **TETRIS**
 
-    ![Screenshot](TETRIS/screenshot.png)
+    <details><summary>Screenshot</summary> <img src="TETRIS/screenshot.png" /> </details>
 
 * **MATRIX** (not game)
 
-    ![Screenshot](MATRIX/screenshot.gif)
+    <details><summary>Screenshot</summary> <img src="MATRIX/screenshot.png" /> </details>
 
 ## How to Play
 
@@ -32,7 +32,7 @@ Thanks to my teacher Brodicico Valeriu!
 
 2. Drag and Drop the game exe file on DOSBox desktop icon
 
-![Screen](https://i.imgur.com/zSzZ7Zg.png)
+    <details><summary>Screenshot</summary> <img src="https://i.imgur.com/zSzZ7Zg.png" /> </details>
 
 ### on Linux
 

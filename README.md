@@ -50,11 +50,9 @@ To increase DOSBox speed press CTRL-F12 _(CTRL-F11 to decrease)_.
 
 ## Compile
 
+Install **Turbo Pascal** then:
+
 ```
 cd GAME_NAME
 ...\TP\BIN\TPC.EXE GAME_NAME.PAS
 ```
-
-## Turbo Pascal 7.0 
-
-[Download Install](https://mega.nz/#!wotThTaZ!vZhfOvJImK_tdK1h36uv7qpN6-CbpXOoOd9fcri6ZN4)
